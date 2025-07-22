@@ -1,4 +1,4 @@
-Understanding the Gaming Behavior of Adults
+# Understanding the Gaming Behavior of Adults
 
 This study explores the gaming behaviors of adults, a group of people aged 18 or above. The aim is to identify an adult’s gaming behavior as concerning or non-concerning and evaluate its association with a range of symptoms related to psychological, social, and physical health. The study also investigates the motives, preferences, and effects of gaming on adults through a combination of quantitative survey data and qualitative insights from various research papers.
 
