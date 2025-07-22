@@ -7,10 +7,3 @@ Machine Learning Algorithms: Implementation of multiple machine learning algorit
 Behavior Classification: Classifies concerning and non-concerning gaming behaviors based on gaming frequency and total gaming hours.
 Awareness: Helps raise awareness about gaming behaviors before they lead to negative health issues or concerning daily routines.
 Future Goals: Plans to include more parameters for accurate findings, collect more data, apply additional machine learning models, and use clustering algorithms to identify patterns in the data.
-
-Contact Information
-Md. Mudachir Uddin, mudachir.uddin@northsouth.edu
-Rasa Jebin Hossain
-Rubyda Hossain
-Saadia Alam
-
